@@ -1,9 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T06:33:59.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.18" etag="3-8Scdmp_5accyuoinvm" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T08:00:40.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TDWru62I8OEaGheDAXPY" version="22.1.18" type="github">
   <diagram name="Page-1" id="KlX83wpPuoJ-3BZzphkl">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-1" target="i0vZ7vQ1HB3JaT2_wjpy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-1" target="i0vZ7vQ1HB3JaT2_wjpy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-1" target="i0vZ7vQ1HB3JaT2_wjpy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-1" target="i0vZ7vQ1HB3JaT2_wjpy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-1" target="i0vZ7vQ1HB3JaT2_wjpy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;Habit App 传递参数&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-2" value="API接入 ，付款页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-7" value="网页接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-9" target="i0vZ7vQ1HB3JaT2_wjpy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="530" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-11" value="&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--md-code-font, SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace); font-size: 12.75px; background-color: var(--md-code-background, #f6f8fa); border-radius: 3px; color: var(--md-code-text); margin: 0px; padding: 0.2em 0.4em;&quot; tabindex=&quot;0&quot; name=&quot;&quot; data-lang=&quot;&quot; class=&quot;rdmd-code lang- theme-light&quot;&gt;redirectUrl&lt;/code&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;这代表用户用户购买成功/失败后跳转的网页页面链接&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;您可以自定义此页面。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i0vZ7vQ1HB3JaT2_wjpy-9">
+          <mxGeometry x="180" y="10" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-12" value="&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--md-code-font, SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace); font-size: 12.75px; background-color: var(--md-code-background, #f6f8fa); border-radius: 3px; color: var(--md-code-text); margin: 0px; padding: 0.2em 0.4em;&quot; tabindex=&quot;0&quot; name=&quot;&quot; data-lang=&quot;&quot; class=&quot;rdmd-code lang- theme-light&quot;&gt;callbackUrl&lt;/code&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;用户购买成功/失败后，&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Alchemy Pay将向此地址通知您支付结果&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Webhook通知&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i0vZ7vQ1HB3JaT2_wjpy-9">
+          <mxGeometry x="210" y="220" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-13" value="充值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-15" value="callbackUrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-17" value="Webhook" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-23" target="i0vZ7vQ1HB3JaT2_wjpy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-23" target="i0vZ7vQ1HB3JaT2_wjpy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-23" target="i0vZ7vQ1HB3JaT2_wjpy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-23" target="i0vZ7vQ1HB3JaT2_wjpy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-23" target="i0vZ7vQ1HB3JaT2_wjpy-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;Habit App 传递参数&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-24" value="API接入 ，付款页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-25" value="网页接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-27" target="i0vZ7vQ1HB3JaT2_wjpy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-27" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="670" width="530" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-28" value="&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--md-code-font, SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace); font-size: 12.75px; background-color: var(--md-code-background, #f6f8fa); border-radius: 3px; color: var(--md-code-text); margin: 0px; padding: 0.2em 0.4em;&quot; tabindex=&quot;0&quot; name=&quot;&quot; data-lang=&quot;&quot; class=&quot;rdmd-code lang- theme-light&quot;&gt;redirectUrl&lt;/code&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;这代表用户用户购买成功/失败后跳转的网页页面链接&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;您可以自定义此页面。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i0vZ7vQ1HB3JaT2_wjpy-27">
+          <mxGeometry x="180" y="10" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-29" value="&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--md-code-font, SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace); font-size: 12.75px; background-color: var(--md-code-background, #f6f8fa); border-radius: 3px; color: var(--md-code-text); margin: 0px; padding: 0.2em 0.4em;&quot; tabindex=&quot;0&quot; name=&quot;&quot; data-lang=&quot;&quot; class=&quot;rdmd-code lang- theme-light&quot;&gt;callbackUrl&lt;/code&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;用户卖出后，&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Alchemy Pay将向此地址通知您支付结果&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; color: rgb(56, 66, 72); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Webhook通知&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="i0vZ7vQ1HB3JaT2_wjpy-27">
+          <mxGeometry x="210" y="220" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-30" value="充值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-31" value="callbackUrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-32" value="Webhook" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-33" target="i0vZ7vQ1HB3JaT2_wjpy-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-33" target="i0vZ7vQ1HB3JaT2_wjpy-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-33" value="callbackUrl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-34" target="i0vZ7vQ1HB3JaT2_wjpy-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="1470" />
+              <mxPoint x="350" y="1470" />
+              <mxPoint x="350" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-34" value="提现回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-35" target="i0vZ7vQ1HB3JaT2_wjpy-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-35" value="充值回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-38" target="i0vZ7vQ1HB3JaT2_wjpy-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-38" value="MQ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1310" width="135" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-41" value="处理消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1358" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-42" value="推送出入金结果消息通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-44" value="更新出入金订单状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0vZ7vQ1HB3JaT2_wjpy-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i0vZ7vQ1HB3JaT2_wjpy-38" target="i0vZ7vQ1HB3JaT2_wjpy-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
